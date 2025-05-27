@@ -1,7 +1,3 @@
-0 Watch 
-1 mobile 
-
-
 
 
 Great! Let’s focus only on the **Expert & Performance Topics in SQL**, with **demo tables**, **realistic use cases**, **queries**, and **expected outputs**.
